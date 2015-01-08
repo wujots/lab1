@@ -1,0 +1,21 @@
+ body, html{
+	margin: 2% 10% 2% 10%;
+	font-family: 'Lora', sans-serif;
+	font-size: 12px;
+	color: #3f3f3f;
+	background-color: aliceblue;
+}
+
+a{
+	color: #7f7f7f;
+	text-decoration: none;
+}
+
+a:hover{
+	color: darkblue;
+}
+
+.thestuffinside{
+	background-color: #fff;
+	padding: 5%;
+}
